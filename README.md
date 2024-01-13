@@ -28,12 +28,17 @@ after downloading this repo do the following:
 5. Go to the following location:
 LensConnect_SampleProgram_Linux_C_x86_x64_1.0.0/LensConnect_Controller/CP2112/srcpkg/slabhiddevice
 and run the following commands:
+
 sudo make
+
 sudo make install
+
 6. go to the following folder:
 LensConnect_SampleProgram_Linux_C_x86_x64_1.0.0/LensConnect_Controller/CP2112/srcpkg/slabhidtosmbus
 and run the following commands:
+
 sudo make
+
 sudo make install
 
 Now in usr/local/lib you should see the following files:
