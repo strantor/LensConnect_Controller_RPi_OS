@@ -49,7 +49,10 @@ libslabhiddevice.so.1.0  libslabhidtosmbus.so.1.0
 7. go to:
 LensConnect_SampleProgram_Linux_C_x86_x64_1.0.0/LensConnect_Controller/CP2112/srcpkg/slabhidtosmbus/doc
 and run:
+
 sudo cp SiliconLabs.rules /etc/udev/rules.d
+
 sudo reboot
+
 
 Now the python scripts should work.
